@@ -1,30 +1,76 @@
-# RASHEL-SUPERSTORE-SALES-ANALYSIS-REPORT-FOR-THE-YEAR-2020-PK
-Rashel Superstore’s 2020 sales analysis highlights key trends in regional performance, customer segments, and product categories.The report showcases top-performing regions and customers, with technology leading sales, while offering actionable insights to drive growth and strengthen market presence
+# Rashel Superstore Sales Analysis Report (2020)
 
-Key insight from the analysis
+A data analysis project examining Rashel Superstore's 2020 sales performance across regions, customer segments, product categories, and states, built with **Power BI**.
 
-The highest sum of sales by customer is Sean Miller, while the lowest is Ken Lonsdale.
+![Rashel Superstore Dashboard](IMG_0487%20(1).jpg)
 
-The segment with the highest count of states is consumer, while the lowest is home office.
+---
 
-The region with the best sum of sales is the West, while the South has the lowest.
+## Project Overview
 
-In the count of cities by category, office supplies lead, while technology has the lowest count.
+This report analyses Rashel Superstore's 2020 sales data to highlight top-performing regions and customers, surface underperforming segments, and provide actionable recommendations to drive growth.
 
-For the count of product names by state, Nevada has the highest, while Wyoming has the lowest.
+**Areas covered:**
+- Sales by customer and customer segment
+- Regional and state-level performance
+- Product category and city-level breakdown
+- Product name distribution by state
 
-The state with the highest sum of sales is the District of Columbia, while Wyoming has the lowest 
+---
 
-Recommendation
+## Tools & Technologies
 
-Sum of Sales by Customer: To increase sales from low-performing customers like Ken Lonsdale, consider targeted promotions, personalised offers, or loyalty programs tailored to their preferences.
+| Tool | Purpose |
+|------|---------|
+| Power BI | Dashboard design and interactive visualisation |
 
-Count of State by Segment: To improve performance in the home office segment, invest in marketing campaigns highlighting relevant products and services for this segment, and explore partnerships with small businesses.
+---
 
-Sum of Sales by Region: Focus on strategies to boost sales in the South region, such as expanding product availability, optimising pricing, or conducting region-specific promotional events.
+## Key Findings
 
-Count of City by Category: Enhance sales in the Technology category by promoting innovative and high-demand technology products, offering discounts, or bundling them with office supplies to attract more customers.
+| Metric | Best Performing | Lowest Performing |
+|--------|----------------|------------------|
+| Customer | Sean Miller | Ken Lonsdale |
+| Segment | Consumer | Home Office |
+| Region | West | South |
+| State | District of Columbia | Wyoming |
+| Category (City Count) | Office Supplies | Technology |
+| Product Range (State Count) | Nevada | Wyoming |
 
-Count of Product Names by State: Address low product engagement in states like Wyoming by improving distribution networks, conducting state-specific market research, and offering localised advertising campaigns.
+---
 
-Sum of Sales by State: Increase sales in low-performing states like Wyoming by introducing targeted sales campaigns, opening new retail locations, or leveraging online channels to reach a broader
+## Recommendations
+
+**Customer Sales**
+- Retain high-value customers like Sean Miller with personalised rewards and exclusive offers.
+- Re-engage lower-performing customers like Ken Lonsdale through targeted promotions and loyalty programmes.
+
+**Segment Growth**
+- Invest in marketing campaigns targeting the home office segment, highlighting relevant products and exploring partnerships with small businesses.
+
+**Regional Strategy**
+- Apply the West region's winning strategies to the South through expanded product availability, optimised pricing, and region-specific promotional events.
+
+**State Performance**
+- Increase sales in Wyoming through targeted campaigns, improved distribution networks, and greater online channel presence.
+
+**Category Development**
+- Boost the Technology category by promoting high-demand products, offering bundled deals with office supplies, and running targeted discounts.
+
+**Product Distribution**
+- Address low product engagement in states like Wyoming with state-specific market research and localised advertising.
+
+---
+
+## How to View
+
+1. Download `rashel (1) (1).pbix`
+2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
+3. Explore the interactive dashboard
+
+---
+
+## About
+
+**Period:** 2020  
+**Author:** Paul Toluwase
