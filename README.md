@@ -73,4 +73,4 @@ This report analyses Rashel Superstore's 2020 sales data to highlight top-perfor
 ## About
 
 **Period:** 2020  
-**Author:** Paul Toluwase
+**Author:** [@Paul3995](https://github.com/Paul3995)
