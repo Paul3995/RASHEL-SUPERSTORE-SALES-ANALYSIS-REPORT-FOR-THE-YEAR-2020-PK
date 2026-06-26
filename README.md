@@ -1,76 +1,26 @@
-# Rashel Superstore Sales Analysis Report (2020)
+# Rashel Superstore Sales Analysis (2020)
 
-A data analysis project examining Rashel Superstore's 2020 sales performance across regions, customer segments, product categories, and states, built with **Power BI**.
+This project analyses Rashel Superstore's 2020 sales data, looking at performance across regions, customer segments, product categories, and states. The aim was to understand who the top customers are, which regions are underdelivering, and where the growth opportunities lie.
 
-![Rashel Superstore Dashboard](IMG_0487%20(1).jpg)
+## What I Found
 
----
+Sean Miller was the highest-spending customer; Ken Lonsdale was at the bottom. The consumer segment had the widest state coverage, while the home office segment was the most limited. The West region outperformed all others; the South had the lowest sales. At state level, the District of Columbia led, while Wyoming consistently came in last across multiple metrics.
 
-## Project Overview
-
-This report analyses Rashel Superstore's 2020 sales data to highlight top-performing regions and customers, surface underperforming segments, and provide actionable recommendations to drive growth.
-
-**Areas covered:**
-- Sales by customer and customer segment
-- Regional and state-level performance
-- Product category and city-level breakdown
-- Product name distribution by state
-
----
-
-## Tools & Technologies
-
-| Tool | Purpose |
-|------|---------|
-| Power BI | Dashboard design and interactive visualisation |
-
----
-
-## Key Findings
-
-| Metric | Best Performing | Lowest Performing |
-|--------|----------------|------------------|
-| Customer | Sean Miller | Ken Lonsdale |
-| Segment | Consumer | Home Office |
-| Region | West | South |
-| State | District of Columbia | Wyoming |
-| Category (City Count) | Office Supplies | Technology |
-| Product Range (State Count) | Nevada | Wyoming |
-
----
+Interestingly, office supplies led in terms of city coverage, but technology had the lowest count — suggesting it's concentrated in fewer markets rather than spread out.
 
 ## Recommendations
 
-**Customer Sales**
-- Retain high-value customers like Sean Miller with personalised rewards and exclusive offers.
-- Re-engage lower-performing customers like Ken Lonsdale through targeted promotions and loyalty programmes.
+For customers like Ken Lonsdale, a personalised approach would make a real difference — targeted promotions, loyalty perks, and checking in to understand what they actually need.
 
-**Segment Growth**
-- Invest in marketing campaigns targeting the home office segment, highlighting relevant products and exploring partnerships with small businesses.
+The home office segment is currently underserved. Given how much that market has grown, it's worth running specific campaigns and exploring partnerships with small businesses to tap into it properly.
 
-**Regional Strategy**
-- Apply the West region's winning strategies to the South through expanded product availability, optimised pricing, and region-specific promotional events.
+The South region gap is one of the bigger opportunities here. Expanding product availability, reviewing pricing, and running region-specific promotions could move those numbers meaningfully.
 
-**State Performance**
-- Increase sales in Wyoming through targeted campaigns, improved distribution networks, and greater online channel presence.
-
-**Category Development**
-- Boost the Technology category by promoting high-demand products, offering bundled deals with office supplies, and running targeted discounts.
-
-**Product Distribution**
-- Address low product engagement in states like Wyoming with state-specific market research and localised advertising.
-
----
+Wyoming repeatedly shows up at the bottom — this calls for a distribution review and localised advertising rather than a blanket national approach.
 
 ## How to View
 
-1. Download `rashel (1) (1).pbix`
-2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-3. Explore the interactive dashboard
+Download `rashel (1) (1).pbix` and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free to download).
 
 ---
-
-## About
-
-**Period:** 2020  
 **Author:** [@Paul3995](https://github.com/Paul3995)
